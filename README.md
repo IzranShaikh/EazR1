@@ -1,3 +1,12 @@
+# To run the project
+### 1. npm install
+
+### 2. npm start or node server.js
+
+### 3. browse http://localhost:6568/view/home
+
+
+
 GIVEN TASKS -
 
 You have to create a Backend application in which you have to call https://dog.ceo/api/breeds/image/random api.
@@ -17,8 +26,3 @@ EMPTY PRICE FIELD EMPTY OR VERY LOW VALUE WILL FORCIBLY ADD A DEFAULT 10$ PRICE
 CHANGES IN THE PRICE WILL BE DISCARDED. ONLY THE FIRST PRICE WILL BE CONSIDERED ABSOLUTE
 REFACTORED EJS N EXPRESS CODE IN MULTIPLE FILES FOR BETTER READABILITY
 
-
-To run the project
-`1. npm install
-2. npm start or node server.js
-3. browse http://localhost:6568`
