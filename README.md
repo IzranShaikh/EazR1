@@ -1,4 +1,5 @@
 GIVEN TASKS -
+
 You have to create a Backend application in which you have to call https://dog.ceo/api/breeds/image/random api.
 This api will give you a random dog image which you have to DISPLAY on the HOME page.
 You have to create THREE pages. DONE
@@ -18,6 +19,6 @@ REFACTORED EJS N EXPRESS CODE IN MULTIPLE FILES FOR BETTER READABILITY
 
 
 To run the project
-1. npm install
+`1. npm install
 2. npm start or node server.js
-3. browse http://localhost:6568
+3. browse http://localhost:6568`
